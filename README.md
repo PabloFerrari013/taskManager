@@ -2,7 +2,7 @@
 # Task Manager ![GitHub](https://img.shields.io/github/license/PabloFerrari013/NlwValoriza)
 
 ## 💻 About the project
-Task Manager is an exercise passed by Rocketseat that consists of making a user task manager.
+Task Manager is an exercise passed by Rocketseat which as its name already says consists of making a user task manager.
 
 ## 🧪 Technologies used
 <div style="display: inline_block">
